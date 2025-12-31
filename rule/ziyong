@@ -1,0 +1,6 @@
+#自用规则
+payload:
+  - DOMAIN-KEYWORD,laowang
+  - DOMAIN-KEYWORD,xsijishe
+  - DOMAIN-KEYWORD,mojie
+  - DOMAIN-KEYWORD,leiting
